@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files
+*sitka_weather_2021_full.csv
+eq_data_1_day_m1.geojson
+Numbers.txt
+Error_Numbers.txt
+statistics.txt
+Empty_Numbers.txt
